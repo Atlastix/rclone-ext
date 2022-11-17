@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: a7a7c1e
+_src_path: gh:meltano/edk
+admin_name: Christoph Wegener
+cli_prefix: rclone
+extension_description: A meltano utility extension for Rclone that wraps the `rclone`
+    command.
+extension_id: rclone-ext
+extension_name: Rclone
+extension_name_lower: rclone
+library_name: rclone_ext
+wrapper_target_name: rclone
