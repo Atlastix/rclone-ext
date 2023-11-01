@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rclone-ext"
-version = "0.0.1"
+version = "0.0.2"
 description = "`rclone-ext` is a Meltano utility extension."
 authors = ["Christoph Wegener"]
 license = "Apache 2.0"
